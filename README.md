@@ -4,7 +4,7 @@ I’m currently studying Data Science and Mathematics in Tecnológico de Monterr
 
 Feel free to explore my repositories and connect with me!
 
-# Connect with me: 
+Connect with me: 
 <a href="https://www.linkedin.com/in/luis-benvenuto" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-benvenuto" height="30" width="40" />
 </a>
